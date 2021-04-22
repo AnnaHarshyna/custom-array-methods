@@ -1,0 +1,20 @@
+{
+  "name": "custom-array-methods",
+  "version": "1.0.0",
+  "description": "Custom implementation of some array methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaHarshyna/custom-array-methods.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaHarshyna/custom-array-methods/issues"
+  },
+  "homepage": "https://github.com/AnnaHarshyna/custom-array-methods#readme"
+}
